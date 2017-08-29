@@ -1,6 +1,6 @@
 JavaScript Closures
 ---
-
+READ
 ## Objectives
 
 1. Explain what a closure is
